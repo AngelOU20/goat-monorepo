@@ -1,0 +1,3 @@
+[submodule "apps/frontend"]
+	path = apps/frontend
+	url = https://github.com/AngelOU20/goat-react-web.git
